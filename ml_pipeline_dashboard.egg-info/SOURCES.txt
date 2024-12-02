@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+ml_pipeline/__init__.py
+ml_pipeline/app.py
+ml_pipeline/eda.py
+ml_pipeline/launcher.py
+ml_pipeline/model.py
+ml_pipeline/preprocessing.py
+ml_pipeline_dashboard.egg-info/PKG-INFO
+ml_pipeline_dashboard.egg-info/SOURCES.txt
+ml_pipeline_dashboard.egg-info/dependency_links.txt
+ml_pipeline_dashboard.egg-info/entry_points.txt
+ml_pipeline_dashboard.egg-info/requires.txt
+ml_pipeline_dashboard.egg-info/top_level.txt
