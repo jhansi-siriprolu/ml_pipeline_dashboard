@@ -25,6 +25,6 @@ An interactive Streamlit-based application that simplifies Exploratory Data Anal
 ```bash
 pip install ml_pipeline_dashboard
 >launch-ml-pipeline
-
-**This will open the web browser asking to upload a file that you want to perform Univariate and Bivariate Analysis. Please feel free to customize the code as per your requirements.
+```
+**This will open the web browser asking to upload a file that you want to perform Univariate and Bivariate Analysis. Please feel free to customize the code as per your requirements.**
 
